@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) Amazon CloudSearch Domain MSP Connector
+# ![LOGO](logo.png) Amazon CloudSearch Domain **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the Amazon CloudSearch Domain API (version 2013-01-01).
+A generated **flow**ground connector for the Amazon CloudSearch Domain API (version 2013-01-01).
 
 Generated from: https://api.apis.guru/v2/specs/amazonaws.com/cloudsearchdomain/2013-01-01/swagger.json<br/>
-Generated at: 2019-05-07T11:15:31+03:00
+Generated at: 2019-05-07T17:35:07+03:00
 
 ## API Description
 
@@ -63,7 +63,7 @@ Supported authorization schemes:
 
 ## License
 
-flowground :- Telekom iPaaS / amazonaws-com-cloudsearchdomain-connector<br/>
+**flow**ground :- Telekom iPaaS / amazonaws-com-cloudsearchdomain-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
